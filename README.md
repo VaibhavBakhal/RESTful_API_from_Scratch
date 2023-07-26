@@ -1,0 +1,2 @@
+# RESTful_API_from_Scratch
+GET ,POST , PUT PATCH AND DELETE 
